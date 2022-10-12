@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miracezra/FreeCodeCampBackEnd.git"
+    "url": "git+https://github.com/miracezra/MiracFCC.git"
   },
   "author": "Mirac Ergenc",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miracezra/FreeCodeCampBackEnd/issues"
+    "url": "https://github.com/miracezra/MiracFCC/issues"
   },
-  "homepage": "https://github.com/miracezra/FreeCodeCampBackEnd#readme"
+  "homepage": "https://github.com/miracezra/MiracFCC#readme"
 }
