@@ -1,4 +1,5 @@
 {
+    "author": "MiracErgenc",
   "name": "freecodecampbackend",
   "version": "1.0.0",
   "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
@@ -11,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/miracezra/MiracFCC.git"
   },
-  "author": "MiracErgenc",
+
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/miracezra/MiracFCC/issues"
